@@ -36,7 +36,7 @@ class Twitter_Validation extends Twitter_Regex {
    *
    * @var  int
    */
-  protected $short_url_length = 22;
+  protected $short_url_length = 23;
 
   /**
    * The length of a short URL beginning with http:
